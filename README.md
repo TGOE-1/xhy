@@ -72,5 +72,5 @@
 ## 成果展示
 
 ### 电路原理图
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-  < img src="./picture/2.png" alt="80米信号源电路" style="w
+
+ ![这是一个80米信号源示意图](./picture/2.png) 
