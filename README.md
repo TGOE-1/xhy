@@ -68,3 +68,10 @@
 * **谐波过大**：检查 LPF 电感电容值是否偏移。
 
 ---
+
+## 成果展示
+
+### 电路原理图
+<div style="display: flex; gap: 20px; margin: 20px 0;">
+  < img src="你的三极管功放原理图链接" alt="三极管功放电路" style="width: 48%; border-radius: 8px;">
+  < img src="你的MOS管功放原理图链接" alt="MOS管功放电路" style="w
